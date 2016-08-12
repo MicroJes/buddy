@@ -1,4 +1,7 @@
 
+#Project Descrption
+Daily use javascript module.
+
 # GIT SETUP
 1. `git init`
 1. `git config user.name "XXX"`
